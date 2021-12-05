@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/haven-protocol-org/node-cryptoforknote-util.git"
+    "url": "https://github.com/jowy81/node-cryptoforknote-util.git"
   },
   "dependencies": {
     "promise": "*",
@@ -19,8 +19,7 @@
     "base58-native": "*",
     "varuint-bitcoin": "^1.0.4",
     "merkle-lib": "^2.0.10",
-    "//""bitcoinjs-lib": "git+https://github.com/MoneroOcean/bitcoinjs-lib.git"
-    "bitcoinjs-lib": "file:../bitcoinjs-lib-5.2.0"
+    "bitcoinjs-lib": "git+https://github.com/jowy81/bitcoinjs-lib.git"
   },
   "keywords": [
     "cryptonight",
